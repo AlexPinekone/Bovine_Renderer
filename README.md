@@ -17,12 +17,12 @@ The goal is to understand and visualize the fundamentals of computer graphics, f
 
 ## Key Features
 
-- 📦 Load and render multiple '.obj' files.
-- 💡 Real-time lighting simulation (ambient and specular).
-- 🔁 Custom animation with transformation matrices.
-- 🧮 Curve-based motion for smoother interpolation.
-- 🖥️ Render pipeline implemented in OpenGL.
-- 🎨 Basic shading and camera manipulation.
+- Load and render multiple '.obj' files.
+- Real-time lighting simulation (ambient and specular).
+- Custom animation with transformation matrices.
+- Curve-based motion for smoother interpolation.
+- Render pipeline implemented in OpenGL.
+- Basic shading and camera manipulation.
 
 ---
 
