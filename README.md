@@ -1,4 +1,4 @@
-# Bovine Renderer — C++ OpenGL Project
+# Bovine Renderer - C++ OpenGL Project
 
 > A rendering project built in C++ and OpenGL that loads and displays multiple '.obj' models, simulates lighting, and performs a hand-crafted animation using transformation matrices and curves.
 
