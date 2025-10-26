@@ -1,51 +1,51 @@
 ﻿  DefinirModelo.cpp
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(53,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(58,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(40,8): warning C4101: 'nx': unreferenced local variable
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(89,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(90,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(92,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(123,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(124,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(125,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(126,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(153,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(158,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(140,8): warning C4101: 'nx': unreferenced local variable
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(177,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(182,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(186,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(187,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(188,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(189,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(209,18): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(221,19): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(245,23): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(245,16): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(246,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(246,24): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(246,16): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(251,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(252,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(253,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(254,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(369,12): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(404,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(527,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(527,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(527,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(585,17): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(597,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(598,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(599,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(600,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(669,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(670,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(671,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(672,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(695,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(696,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(697,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\manue\source\repos\DefinirModelo\DefinirModelo\DefinirModelo.cpp(698,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  DefinirModelo.vcxproj -> C:\Users\manue\source\repos\DefinirModelo\x64\Debug\DefinirModelo.exe
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(53,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(58,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(40,8): warning C4101: 'nx': unreferenced local variable
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(89,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(90,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(91,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(92,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(122,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(123,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(124,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(125,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(152,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(157,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(139,8): warning C4101: 'nx': unreferenced local variable
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(176,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(181,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(185,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(186,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(187,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(188,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(208,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(220,18): warning C4305: '=': truncation from 'double' to 'float'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(244,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(244,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(245,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(245,24): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(245,16): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(250,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(251,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(252,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(253,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(368,7): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(403,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(524,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(524,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(524,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(582,17): warning C4305: '=': truncation from 'double' to 'float'
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(594,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(595,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(596,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(597,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(666,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(667,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(668,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(669,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(692,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(693,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(694,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projekte\3D_graphics_simulation\DefinirModelo\DefinirModelo.cpp(695,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DefinirModelo.vcxproj -> D:\Projekte\3D_graphics_simulation\x64\Debug\DefinirModelo.exe

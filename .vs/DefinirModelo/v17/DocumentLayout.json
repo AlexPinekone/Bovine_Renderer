@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekte\\3D_graphics_simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB937BF-2E40-4E9E-BB7C-F0FA107B5F56}|DefinirModelo\\DefinirModelo.vcxproj|D:\\Projekte\\3D_graphics_simulation\\DefinirModelo\\DefinirModelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DB937BF-2E40-4E9E-BB7C-F0FA107B5F56}|DefinirModelo\\DefinirModelo.vcxproj|solutionrelative:DefinirModelo\\DefinirModelo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefinirModelo.cpp",
+              "DocumentMoniker": "D:\\Projekte\\3D_graphics_simulation\\DefinirModelo\\DefinirModelo.cpp",
+              "RelativeDocumentMoniker": "DefinirModelo\\DefinirModelo.cpp",
+              "ToolTip": "D:\\Projekte\\3D_graphics_simulation\\DefinirModelo\\DefinirModelo.cpp",
+              "RelativeToolTip": "DefinirModelo\\DefinirModelo.cpp",
+              "ViewState": "AgIAADgBAAAAAAAAAAAswEoBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T18:30:43.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

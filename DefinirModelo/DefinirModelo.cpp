@@ -91,7 +91,6 @@ void anima2() {
 		mR[0][2] = sin(0.5* (pi / 180));
 		mR[2][2] = cos(0.5 * (pi / 180));
 		if (bane) {
-			cout << "Ayudame que tengo" << endl;
 			imprimeMatriz(mPo);
 			imprimeMatriz(mT);
 			imprimeMatriz(mR);
@@ -322,7 +321,7 @@ void display(void)
 	if (a5) {
 		mueve();
 		mueveAtras();
-		//anima5();
+		anima5();
 	}
 	
 	rotaLuz();
@@ -460,7 +459,6 @@ Vertice calcPuntoMedio(Modelo m) {
 		vres.x += v.x;
 		vres.y += v.y;
 		vres.z += v.z;
-		//cout<<"W "<<v.x << endl;
 		if (v.x > mayx)
 			mayx = v.x;
 		if (v.x < menx)
@@ -470,7 +468,6 @@ Vertice calcPuntoMedio(Modelo m) {
 	vres.x = vres.x / m.vertices.size();
 	vres.y = vres.y / m.vertices.size();
 	vres.z = vres.z / m.vertices.size();
-	cout << "PUNTOS: "<<mayx<<" Y "<<menx << endl;
 	return vres;
 }
 //Multiplica la matriz por un punto
